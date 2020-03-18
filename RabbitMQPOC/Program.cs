@@ -12,6 +12,8 @@ namespace RabbitMQPOC
 
             ReceiveFromQueue receiveFrom = new ReceiveFromQueue();
             receiveFrom.ReceiveDataFromQueue();
+
+
         }
     }
 }
