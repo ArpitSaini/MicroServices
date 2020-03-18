@@ -1,0 +1,11 @@
+E:\POC\CoreMicroservicesRabbitMQ\RabbitMQPOC\bin\Debug\netcoreapp2.2\RabbitMQPOC.deps.json
+E:\POC\CoreMicroservicesRabbitMQ\RabbitMQPOC\bin\Debug\netcoreapp2.2\RabbitMQPOC.runtimeconfig.json
+E:\POC\CoreMicroservicesRabbitMQ\RabbitMQPOC\bin\Debug\netcoreapp2.2\RabbitMQPOC.runtimeconfig.dev.json
+E:\POC\CoreMicroservicesRabbitMQ\RabbitMQPOC\bin\Debug\netcoreapp2.2\RabbitMQPOC.dll
+E:\POC\CoreMicroservicesRabbitMQ\RabbitMQPOC\obj\Debug\netcoreapp2.2\RabbitMQPOC.csproj.CoreCompileInputs.cache
+E:\POC\CoreMicroservicesRabbitMQ\RabbitMQPOC\obj\Debug\netcoreapp2.2\RabbitMQPOC.AssemblyInfoInputs.cache
+E:\POC\CoreMicroservicesRabbitMQ\RabbitMQPOC\obj\Debug\netcoreapp2.2\RabbitMQPOC.AssemblyInfo.cs
+E:\POC\CoreMicroservicesRabbitMQ\RabbitMQPOC\bin\Debug\netcoreapp2.2\RabbitMQPOC.pdb
+E:\POC\CoreMicroservicesRabbitMQ\RabbitMQPOC\obj\Debug\netcoreapp2.2\RabbitMQPOC.csprojAssemblyReference.cache
+E:\POC\CoreMicroservicesRabbitMQ\RabbitMQPOC\obj\Debug\netcoreapp2.2\RabbitMQPOC.dll
+E:\POC\CoreMicroservicesRabbitMQ\RabbitMQPOC\obj\Debug\netcoreapp2.2\RabbitMQPOC.pdb
